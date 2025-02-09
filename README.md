@@ -34,7 +34,9 @@ My journey in technology has led me to develop a passion for computer networks a
 <img src="https://img.shields.io/badge/-CompTIA%20A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA%20Network%2B-0071C5?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
+<a href="https://www.credly.com/badges/7d222009-7a73-4af7-859a-009896c43682/linked_in_profile" target="_blank">
+  <img src="https://img.shields.io/badge/-CompTIA%20A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
 </div>
 
 ## Projects
