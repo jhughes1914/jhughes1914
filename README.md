@@ -19,15 +19,6 @@ My journey in technology has led me to develop a passion for computer networks a
 
 ## Tools
 
-### Network
-
-
-### Endpoint
-
-
-### SIEM
-
-
 ## Certifications
 
 <div>
