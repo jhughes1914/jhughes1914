@@ -1,13 +1,40 @@
-- 👋 Hi, I’m @jhughes1914
+# Hello, I'm Jimmy
+<a href="www.linkedin.com/in/jimmy-hughes-769ab3226"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-- 👀 I’m interested in Information Technology & Cybersecurity
-- 🌱 I’m currently learning CompTIA Network+ (N10-008), & I obtained my Security+ (SY0-601) this year
-- 💞️ I’m looking to collaborate with hands on lab work with network and security
-- 📫 How to reach me email: jhughes1914@gmail.com
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Turned 40 last year and made the process of changing career paths that I started 3 years ago when I enrolled in my Graduate program to enter into the field of IT/IT Security. Obtained 3 CompTIA certifications within 9 months -- A+, Network+, and Security+
 
-<!---
-jhughes1914/jhughes1914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I am intering the information technology career path with a profound interest in technology, networking, and cybersercurity.
+
+## Objective
+
+My journey in technology has led me to develop a passion for computer networks and cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+
+
+
+## Tools
+
+### Network
+
+
+### Endpoint
+
+
+### SIEM
+
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-CompTIA%20A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Network%2B-0071C5?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+</div>
+
+## Projects
