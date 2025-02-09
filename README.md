@@ -14,7 +14,7 @@ My journey in technology has led me to develop a passion for computer networks a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-
+| Computer Build                                | <a href="https://github.com/jhughes1914/Computer-Build">Computer Build Lab</a>|
 
 
 ## Tools
@@ -47,3 +47,4 @@ My journey in technology has led me to develop a passion for computer networks a
 </div>
 
 ## Projects
+- <a href="https://github.com/jhughes1914/Computer-Build">Computer Build Lab</a>
