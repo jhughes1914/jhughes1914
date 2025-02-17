@@ -7,7 +7,8 @@ I am intering the information technology career path with a profound interest in
 
 ## Objective
 
-My journey in technology has led me to develop a passion for computer networks and cybersecurity, and I am now eager to transition into this career field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Structures and customer-focused IT specialists with experience in hardware/software debugging, system management, and IT support in manufacturing and lab environments. Experienced at resolving technical issues, preserving system integrity, and collaborating with cross-functional teams to optimize efficiency. Seeking technical expertise, documentation ability, and customer support ability.
+
 
 ## Skills
 
@@ -16,7 +17,6 @@ My journey in technology has led me to develop a passion for computer networks a
 |-----------------------------------------------|----------------------------|
 | Computer Build                                | <a href="https://github.com/jhughes1914/Computer-Build">Computer Build Lab</a>|
 | Investigation Techniques                      | <a href="https://github.com/jhughes1914/eLearning---Art-of-Investigation/blob/main/README.md">Investigation Techniques Lab</a>|
-
 
 
 ## Tools
@@ -38,6 +38,7 @@ My journey in technology has led me to develop a passion for computer networks a
   <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 </div>
+
 
 ## Projects
 - <a href="https://github.com/jhughes1914/Computer-Build">Computer Build Lab</a>
