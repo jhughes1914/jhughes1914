@@ -15,7 +15,8 @@ My journey in technology has led me to develop a passion for computer networks a
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Computer Build                                | <a href="https://github.com/jhughes1914/Computer-Build">Computer Build Lab</a>|
-| Investigation Techniques                      | <a href="https://github.com/jhughes1914/eLearning---The-Art-of-Investigation/edit/main/README.md">Investigation Techniques Lab</a>|
+| Investigation Techniques                      | <a href="https://github.com/jhughes1914/eLearning---Art-of-Investigation/blob/main/README.md">Investigation Techniques Lab</a>|
+
 
 
 ## Tools
@@ -40,4 +41,4 @@ My journey in technology has led me to develop a passion for computer networks a
 
 ## Projects
 - <a href="https://github.com/jhughes1914/Computer-Build">Computer Build Lab</a>
-- <a href="https://github.com/jhughes1914/eLearning---The-Art-of-Investigation/edit/main/README.md">Investigation Techniques Lab</a>
+- <a href="https://github.com/jhughes1914/eLearning---Art-of-Investigation/blob/main/README.md">Investigation Techniques Lab</a>
