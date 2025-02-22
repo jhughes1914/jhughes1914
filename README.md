@@ -15,7 +15,7 @@ Structures and customer-focused IT specialists with experience in hardware/softw
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Computer Build                                | <a href="https://github.com/jhughes1914/Computer-Build">Computer Build Lab</a>|
+| Hardware and Software Installation            | <a href="https://github.com/jhughes1914/Computer-Build">Hardware and Software Installation Lab</a>|
 | Investigation Techniques                      | <a href="https://github.com/jhughes1914/eLearning---Art-of-Investigation/blob/main/README.md">Investigation Techniques Lab</a>|
 
 
@@ -41,5 +41,5 @@ Structures and customer-focused IT specialists with experience in hardware/softw
 
 
 ## Projects
-- <a href="https://github.com/jhughes1914/Computer-Build">Computer Build Lab</a>
+- <a href="https://github.com/jhughes1914/Computer-Build">Hardware and Software Installation Lab</a>
 - <a href="https://github.com/jhughes1914/eLearning---Art-of-Investigation/blob/main/README.md">Investigation Techniques Lab</a>
