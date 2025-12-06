@@ -17,7 +17,6 @@ Structures and customer-focused IT specialists with experience in hardware/softw
 |-----------------------------------------------|----------------------------|
 | Hardware and Software Installation            | <a href="https://github.com/jhughes1914/Computer-Build">Hardware and Software Installation Lab</a>|
 | Investigation Techniques                      | <a href="https://github.com/jhughes1914/eLearning---Art-of-Investigation/blob/main/README.md">Investigation Techniques Lab</a>|
-| Remote Deposit Check Scanner Troubleshooting  | <a href="https://github.com/jhughes1914/Helped-Frustrated-or-Distressed-While-Dealing-with-a-Technical-Issue./tree/main">Remote Deposit Check Scanner Troubleshooting Lab</a>|
 
 
 ## Tools
