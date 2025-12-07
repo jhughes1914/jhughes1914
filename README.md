@@ -19,7 +19,9 @@ Structures and customer-focused IT specialists with experience in hardware/softw
 | Investigation Techniques                      | <a href="https://github.com/jhughes1914/eLearning---Art-of-Investigation/blob/main/README.md">Investigation Techniques Lab</a>|
 
 
-## Tools
+## Resume
+
+https://1drv.ms/w/c/1c052f2825b29e43/IQDe3IWdSgToTJFJIggcsFjiAfDmDWXXd8gkyzP6UArTWQw?e=0ibkoi
 
 ## Certifications
 
