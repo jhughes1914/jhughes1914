@@ -12,7 +12,7 @@ Structures and customer-focused IT specialists with experience in hardware/softw
 
 ## Resume
 
-https://1drv.ms/w/c/1c052f2825b29e43/IQDe3IWdSgToTJFJIggcsFjiAfDmDWXXd8gkyzP6UArTWQw?e=0ibkoi
+<a href="https://1drv.ms/w/c/1c052f2825b29e43/IQDe3IWdSgToTJFJIggcsFjiAfDmDWXXd8gkyzP6UArTWQw?e=0ibkoi">Jimmy Hughes Resume</a>
 
 
 ## Skills
