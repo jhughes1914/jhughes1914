@@ -10,11 +10,6 @@ I am intering the information technology career path with a profound interest in
 Structures and customer-focused IT specialists with experience in hardware/software debugging, system management, and IT support in manufacturing and lab environments. Experienced at resolving technical issues, preserving system integrity, and collaborating with cross-functional teams to optimize efficiency. Seeking technical expertise, documentation ability, and customer support ability.
 
 
-## Resume
-
-<a href="https://1drv.ms/w/c/1c052f2825b29e43/IQDe3IWdSgToTJFJIggcsFjiAfDmDWXXd8gkyzP6UArTWQw?e=0ibkoi">Jimmy Hughes Resume</a>
-
-
 ## Skills
 
 
