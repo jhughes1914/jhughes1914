@@ -16,6 +16,7 @@ Structures and customer-focused IT specialists with experience in hardware/softw
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Hardware and Software Installation            | <a href="https://github.com/jhughes1914/Computer-Build">Hardware and Software Installation Lab</a>|
+| End User Help Desk Support & Resolution       | <a href="https://github.com/jhughes1914/End-User-Help-Desk-Support-Incident-Resolution/blob/main/README.md">End User Help Desk Support & Resolution</a>|
 | Investigation Techniques                      | <a href="https://github.com/jhughes1914/eLearning---Art-of-Investigation/blob/main/README.md">Investigation Techniques Lab</a>|
 
 
@@ -41,6 +42,7 @@ Structures and customer-focused IT specialists with experience in hardware/softw
 
 ## Projects
 - <a href="https://github.com/jhughes1914/Computer-Build">Hardware and Software Installation Lab</a>
+- <a href="https://github.com/jhughes1914/End-User-Help-Desk-Support-Incident-Resolution/blob/main/README.md">End User Help Desk Support & Resolution</a>
 - <a href="https://github.com/jhughes1914/eLearning---Art-of-Investigation/blob/main/README.md">Investigation Techniques Lab</a>
 - <a href="https://github.com/jhughes1914/Support-Engineer-Project/blob/main/README.md">Support Engineer Project Lab</a>
 - <a href="https://github.com/jhughes1914/Helped-Frustrated-or-Distressed-While-Dealing-with-a-Technical-Issue./tree/main">Remote Deposit Check Scanner Troubleshooting Lab</a>
