@@ -58,5 +58,5 @@ Structures and customer-focused IT specialists with experience in hardware/softw
 - <a href="https://github.com/jhughes1914/application-network-support-/blob/main/README.md">Application Network Support
 - <a href="https://github.com/jhughes1914/eLearning---Art-of-Investigation/blob/main/README.md">Investigation Techniques Lab</a>
 - <a href="https://github.com/jhughes1914/Support-Engineer-Project/blob/main/README.md">Support Engineer Project Lab</a>
-- <a href="https://github.com/jhughes1914/Helped-Frustrated-or-Distressed-While-Dealing-with-a-Technical-Issue./tree/main">Remote Deposit Check Scanner Troubleshooting Lab</a>
+
 
