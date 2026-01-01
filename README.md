@@ -1,9 +1,16 @@
 # Hello, I'm Jimmy
 <a href="https://www.linkedin.com/in/jimmy-hughes-769ab3226"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+## Technical Skills
+- CompTIA A+ | CompTIA Network+ | CompTIA Security+ 
+- Windows OS, Microsoft Office Suite (Excel, PowerPoint, Word), and macOS
+- Hardware & Software Troubleshooting (PCs, Printers, Scanners, Mobile Devices) 
+- Enterprise Quality Management Systems & SOP Documentation 
+- Helpdesk Support (Level 1 & 2) & Password Resets 
+- IT Systems & Infrastructure Support in Production Environments 
+- Preventative Maintenance, System Patching, and Security Updates 
+- Process Improvement & Technical Documentation
 
-
-I am intering the information technology career path with a profound interest in technology, networking, and cybersercurity.
 
 ## Objective
 
