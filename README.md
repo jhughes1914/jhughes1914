@@ -42,12 +42,11 @@ Structures and customer-focused IT specialists with experience in hardware/softw
   <img src="https://img.shields.io/badge/-CompTIA%20Network%2B-0071C5?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 
-
 </div>
 <a href="https://www.credly.com/badges/1642dbad-323e-4319-af5e-f9fb1f3d6b9a/linked_in_profile" target="_blank">
   <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
-</div>
+
 
 
 ## Projects
